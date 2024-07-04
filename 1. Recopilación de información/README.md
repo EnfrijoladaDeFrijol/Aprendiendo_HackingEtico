@@ -9,3 +9,4 @@ Obtendremos toda la información de la infrestrcutura tecnologica del objetivo
 ## Semipasiva :boom:
 
 ## Activa :anger:
+Recolectar información usando métodos que interactúan de manera directa (envío de paquetes de red)
